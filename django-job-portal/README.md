@@ -2,7 +2,7 @@
 
 #### An open source online job portal.
 
-Live: [Demo](https://django-portal.herokuapp.com/)
+Live: [Demo](http://amit17231.pythonanywhere.com/)
 
 Used Tech Stack
 
